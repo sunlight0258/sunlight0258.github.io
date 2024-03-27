@@ -24,3 +24,4 @@ jobs:
           gitbook build --output=.
       - name: Build
         uses: bob1113/gitbook-publish@v1.0.0
+
