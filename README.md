@@ -23,3 +23,6 @@ You can communicate with me through [GitHub Issues](https://github.com/sunlight0
 ## Life
 
 ## Summarize
+
+## Others
+

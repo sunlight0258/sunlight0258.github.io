@@ -6,7 +6,8 @@
         "fontsettings",
         "chapter-fold",
         "github",
-        "emphasize"
+        "emphasize",
+        "single-page"
     ],
     "styles": {
         "website": "styles/website.css"
