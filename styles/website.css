@@ -1,0 +1,13 @@
+.gitbook-link {
+    display: none !important;
+}
+
+div.book-header > h1 > a {
+    display: none !important;
+}
+div.book-body > div > div.page-wrapper > div.page-inner{
+    max-width: 1200px;
+}
+div.book-body >a.navigation-next{
+    display: none;
+}

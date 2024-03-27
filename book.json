@@ -1,0 +1,35 @@
+{
+    "plugins": [
+        "search",
+        "highlight",
+        "-sharing",
+        "fontsettings",
+        "chapter-fold",
+        "github",
+        "emphasize",
+        "single-page"
+    ],
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "pluginsConfig": {
+        "fontSettings": {
+            "family": "sans",
+            "size": 4
+        },
+        "github": {
+            "url": "https://github.com/sunlight0258"
+        },
+        "sharing": {
+            "twitter": false,
+            "facebook": false,
+            "sharing": false
+        },
+        "theme-default": {
+            "showLevel": true
+        }
+    },
+    "associatedWithSummary": true,
+    "multipleH1": false,
+    "title": "sunlight0258"
+}
