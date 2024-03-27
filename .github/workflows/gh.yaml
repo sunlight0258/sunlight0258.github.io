@@ -21,7 +21,9 @@ jobs:
       - run:
           gitbook install
       - run:
-          gitbook build --output=.
+          mkdir docs
+      - run:
+          gitbook build --output=. ./docs
       - name: Build
         uses: bob1113/gitbook-publish@v1.0.0
 
