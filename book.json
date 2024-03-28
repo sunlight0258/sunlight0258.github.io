@@ -1,18 +1,15 @@
 {
     "plugins": [
-        "search",
-        "highlight",
-        "-sharing",
-        "fontsettings",
-        "chapter-fold",
-        "github",
-        "emphasize",
+        "favicon",
         "single-page"
     ],
     "styles": {
         "website": "styles/website.css"
     },
     "pluginsConfig": {
+        "favicon": {
+            "shortcut": "styles/favicon.ico"
+        },
         "fontSettings": {
             "family": "sans",
             "size": 4
